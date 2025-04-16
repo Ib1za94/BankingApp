@@ -5,6 +5,17 @@ The app demonstrates a modern Android architecture using mock data and focuses o
 
 > ⚠️ **Note:** This is a UI prototype built with mock data. Some features are static or partially implemented. The app focuses on architecture and design patterns rather than backend integration or production readiness.
 
+## 💡 About the Project
+
+This project was created as a pet project to demonstrate modern Android development using Jetpack Compose and clean architecture principles. The main focus was on building a visually appealing and well-structured banking app UI using mock data.
+
+I aimed to showcase my skills in:
+- Building Compose UI with Material Design 3
+- Creating a modular structure using MVVM
+- Designing reusable components
+- Navigating between screens with Navigation Component
+- Maintaining clean, readable, and scalable code
+
 ---
 
 ## 📱 Screenshots
