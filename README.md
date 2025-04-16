@@ -1,20 +1,23 @@
 # Banking App Mock (Jetpack Compose)
 
-This is a UI prototype of a banking application built with Jetpack Compose.  
-The app demonstrates a modern Android architecture using mock data and focuses on clean UI design, design patterns, and code structure.
+This is a pet project showcasing a modern banking app UI built with Jetpack Compose and mock data.  
+It demonstrates clean architecture, reusable components, and Material Design 3 principles — with a focus on UI, not backend.
 
-> ⚠️ **Note:** This is a UI prototype built with mock data. Some features are static or partially implemented. The app focuses on architecture and design patterns rather than backend integration or production readiness.
+> ⚠️ **Note:** Some features are static or partially implemented. This is a UI prototype and not intended for production use.
+
+---
 
 ## 💡 About the Project
 
-This project was created as a pet project to demonstrate modern Android development using Jetpack Compose and clean architecture principles. The main focus was on building a visually appealing and well-structured banking app UI using mock data.
+The goal of this project was to demonstrate my skills in modern Android development.  
+I focused on creating a clean and modular architecture while designing a visually appealing interface using only mock data.
 
-I aimed to showcase my skills in:
-- Building Compose UI with Material Design 3
-- Creating a modular structure using MVVM
-- Designing reusable components
-- Navigating between screens with Navigation Component
-- Maintaining clean, readable, and scalable code
+Key areas of focus:
+- Jetpack Compose + Material 3 UI
+- MVVM architecture
+- Reusable components and modular structure
+- Navigation between screens
+- Clean, scalable, and readable code
 
 ---
 
