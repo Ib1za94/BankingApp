@@ -33,7 +33,12 @@ If you're testing the login flow, you can use the following credentials:
 
 ## 📱 Screenshots
 
-*Coming soon — UI previews or GIFs showcasing main flows*
+<p align="left">
+<img src="https://github.com/user-attachments/assets/eeee7fe2-41c3-4d19-afd7-1e19cd462685" width="15%"/>
+<img src="https://github.com/user-attachments/assets/0ae99104-92a8-41a7-b9b6-bdb075f4cca2" width="15%"/>
+<img src="https://github.com/user-attachments/assets/21dc9029-e7d4-4580-b7a3-fa5461ba57dd" width="15%"/>
+<img src="https://github.com/user-attachments/assets/42f1604f-bd56-4c39-aeac-692398a2d1ae" width="15%"/>
+</p>
 
 ---
 
