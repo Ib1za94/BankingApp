@@ -74,4 +74,4 @@ If you're testing the login flow, you can use the following credentials:
 
 ---
 
-📅 Created: March 2023
+📅 Created: June 2023
