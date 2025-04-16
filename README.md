@@ -21,6 +21,16 @@ Key areas of focus:
 
 ---
 
+## 🧪 Demo Credentials (for UI preview only)
+
+If you're testing the login flow, you can use the following credentials:
+
+- **Login:** example@mail.com  
+- **Password:** 1234567Ab  
+- **OTP:** 1111
+
+---
+
 ## 📱 Screenshots
 
 *Coming soon — UI previews or GIFs showcasing main flows*
